@@ -1,6 +1,7 @@
 package com.edutechconnect.app
 
 import android.os.Bundle
+import android.app.AlertDialog
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
