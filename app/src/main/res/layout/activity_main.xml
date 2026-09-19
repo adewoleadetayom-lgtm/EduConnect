@@ -20,7 +20,7 @@
                 android:padding="14dp" android:text="Connecting..." android:textSize="14sp"/>
 
             <Button android:id="@+id/subjectsButton" android:layout_width="match_parent" android:layout_height="wrap_content"
-                android:text="📚 Subjects & Questions"/>
+                android:text="📚 Subjects &amp; Questions"/>
             <Button android:id="@+id/chatButton" android:layout_width="match_parent" android:layout_height="wrap_content"
                 android:text="💬 Real-Time Chat"/>
             <Button android:id="@+id/adminButton" android:layout_width="match_parent" android:layout_height="wrap_content"
